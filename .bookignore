@@ -1,0 +1,8 @@
+/.project
+/.grunt
+/_book
+/node_modules
+.bookignore
+book.json
+package.json
+Gruntfile.js
